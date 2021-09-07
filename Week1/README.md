@@ -1,4 +1,4 @@
-<h1> Title: A kilometer in my shoes. </h1>
+<h1> A kilometer in my shoes. </h1>
 
 Last week I had an ITP Class titled ‘Interactive story-telling for Liberation,’ where we spent the first class discussing what makes us feel liberated, and how we would incorporate that into our work. The idea of creating something for liberation really resonated with me, and I began to consider whether I can apply it to my capstone project. I initially began with considering what it is that makes me liberated, and making a list. My liberations are small and big, they are contextual and all encapsulating, they are subtle and direct. There is an endless list of liberations I can think of. So How do I create something that makes me feel liberated? Should my focus be to create something that liberates others? Will creating something that liberates me, find a way to reach others?
 
