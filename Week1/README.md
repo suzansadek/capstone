@@ -4,7 +4,11 @@ Last week I had an ITP Class titled ‘Interactive story-telling for Liberation,
 
 As I explored my freedoms and restrictions, I began to also consider what I am passionate and focused on. As a person with many different intersecting identities, I realized that not only are my interests contextual but ever-changing and growing. The idea I decided to explore this week is a piece called A kilometer in my shoes. The idea explores a day or a segment in my life, where my intersectionalities pop up in questions that the audiences have to choose. The questions subtly hint at the underlying issues that someone like me face on a daily basis. This could be interpreted in many different ways, and some messages may not be understood, but that’s okay. Just experiencing a day in someone else’s shoes may be a notable change. For example, if I were to host this on a VR or a walkthrough- style website, having the character’s viewpoint be from my height may be a notable change to other people who have a different perspective of the same streets. 
 
-<img> https://github.com/suzansadek/capstone/blob/main/Week1/Capstone%20prototype.jpg </img>
-<img> https://github.com/suzansadek/capstone/blob/main/Week1/Screen%20Shot%202021-09-07%20at%208.46.36%20AM.png </img>
-<img> https://github.com/suzansadek/capstone/blob/main/Week1/Screen%20Shot%202021-09-07%20at%208.46.41%20AM.png </img>
-<img> https://github.com/suzansadek/capstone/blob/main/Week1/Screen%20Shot%202021-09-07%20at%208.46.47%20AM.png </img>
+![](image link) https://github.com/suzansadek/capstone/blob/main/Week1/Capstone%20prototype.jpg 
+
+![](image link)  https://github.com/suzansadek/capstone/blob/main/Week1/Screen%20Shot%202021-09-07%20at%208.46.36%20AM.png
+
+![](image link)  https://github.com/suzansadek/capstone/blob/main/Week1/Screen%20Shot%202021-09-07%20at%208.46.41%20AM.png 
+
+![](image link)  https://github.com/suzansadek/capstone/blob/main/Week1/Screen%20Shot%202021-09-07%20at%208.46.47%20AM.png
+
