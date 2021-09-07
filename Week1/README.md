@@ -6,5 +6,5 @@ As I explored my freedoms and restrictions, I began to also consider what I am p
 
 <img> https://github.com/suzansadek/capstone/blob/main/Week1/Capstone%20prototype.jpg </img>
 <img> https://github.com/suzansadek/capstone/blob/main/Week1/Screen%20Shot%202021-09-07%20at%208.46.36%20AM.png </img>
-<img> https://github.com/suzansadek/capstone/blob/main/Week1/Screen%20Shot%202021-09-07%20at%208.46.36%20AM.png </img>
+<img> https://github.com/suzansadek/capstone/blob/main/Week1/Screen%20Shot%202021-09-07%20at%208.46.41%20AM.png </img>
 <img> https://github.com/suzansadek/capstone/blob/main/Week1/Screen%20Shot%202021-09-07%20at%208.46.36%20AM.png </img>
