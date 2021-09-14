@@ -6,41 +6,61 @@ As I thought through these questions and philosophies, I began to think of my pr
 
 1. Solitude vs. Company
 
+![](https://github.com/suzansadek/capstone/blob/main/week2/choice1.jpg)
+
 Seeming like a simple question, often times picking between your own company and someone else’s isn’t an easy one. What if I had a fear of solitude? What if the friend at the cafe was a ‘bad’ friend? Would the answer of these questions be different if context was given? Is the absence of context is what makes the choice easier?
 
-1. Initiative vs. Cowardice?
+2. Initiative vs. Cowardice?
+
+![](https://github.com/suzansadek/capstone/blob/main/week2/choice2.jpg)
 
 This wasn’t an easy one. A normal-day-Suzan would never in a million years do this. It was absolutely nerve-wrecking and the only thing that got me through it was knowing it was for an experiment. That raises the question; would I have done it if it were up to me? Of course not. So why did i present it as an option? Well, firstly because I wanted to see how far I could take it, and secondly, I wanted to see what my friend would choose. If you had to make the choice, what would you choose? Would your answer differ if the character was a real life person instead of a video game? Would your answer differ if you *knew* the person like my friend knew me? (Even though he still said yes). I dont remember the last time I walked to a random person and said ‘hi,’ and it was so simple, sweet, and wholesome, that I wonder why I dont do it more. (For the record, I will *not* be doing it more) But shout out to Derek for being so sweet, and a real trooper for the experiment!
 
-1. Tip vs. No tip
+3. Tip vs. No tip
+
+![](https://github.com/suzansadek/capstone/blob/main/week2/choice3.jpg)
 
 This seems like an easy question, that people may consider every day. However, this is also one of the questions that may have a different answer with context. What if I shared how much money there was in my bank account? Would the answer stay the same? Is it easier to request me to tip the barista instead than doing it yourself? This is also one of the interesting moments I found in the city, where one may take the responsibility of caring for others because the system and government doesn’t do a good job at it. 
 
-1. Academic vs. Social
+4. Academic vs. Social
+
+![](https://github.com/suzansadek/capstone/blob/main/week2/choice4.jpg)
 
 As students, many of us face choices like these daily, where we have to choose to prioritise between our relationships and our academia. Would you choose differently if *you* had to face the consequences of showing up to class without your readings? Would you choose differently if you had to cancel on your friend because you didnt manage your time correctly?
 
-1. Accommodations vs. Conformity
+5. Accommodations vs. Conformity
+
+![](https://github.com/suzansadek/capstone/blob/main/week2/choice5.jpg)
 
 This was a difficult one too. My friend admitted that it was difficult for him to make this choice, because he did not feel like he should dictate weather or when I should pray. This was interesting feedback for me, as I also felt as if there was no right answer. As a practicing Muslim, this is a dilemma i face every semester. Should I let it be known that I prioritise my faith, and ask for accommodations? Or should I conform- because I am afraid of backlash, judgement, or islamophobia. Also, socialised as a woman immigrant of colour, I am simply afraid to ask for accommodations. Even as he answered, I wish he had answered differently because I have avoided this request for 3 years, and yet I needed it to be a part of my experiment, because I know that a dilemma that has such a heavy weight on my academic career may not even cross someone else’s mind.
 
-1. Safety 1 vs. Safety 2
+6. Safety 1 vs. Safety 2
+
+![](https://github.com/suzansadek/capstone/blob/main/week2/choice6.jpg)
 
 Here is one of the examples of another ‘pick your poison’ type question. The answers may not make a difference, but the questions tells a story. In this case, its the daily barricade of questions that women have to think through for safety. 
 
-1. Productivity vs. Self Care
+7. Productivity vs. Self Care
+
+![](https://github.com/suzansadek/capstone/blob/main/week2/choice7.jpg)
 
 Where do we draw the line between these two? As a student, often times I find myself scheduling and designing my day around academic work. I wake up a student, and go to sleep a student. When am I not a student, and when can I do something for myself? Sometimes this choice of listening to an audiobook, a podcast, or music comes with the underlying guilt that I am not being ‘productive,’ as well as the anxiety that comes with not staying ahead of your work. When are we allowed to do things without these negative associated feelings? Something I noticed was that having the decision made for me for this ride, made me feel more at peace and confident in the decision- almost like I wasn’t responsible for the consequences (even though I very much am).
 
-1. Giving vs. Ignoring
+8. Giving vs. Ignoring
+
+![](https://github.com/suzansadek/capstone/blob/main/week2/choice8.jpg)
 
 Similar to number 3, this answer could change with context- as you can see from the questions asked. However, I am interested in exploring what you would answer. Does the answer get easier when it is a direct question? Thousands of people pass people in need daily, and it is more uncommon for them to stop and donate some money. I wonder whether those same people would pick 1 or 2 to this question- when they have to consciously think about the choice. 
 
-1. Treat vs Health
+9. Treat vs Health
+
+![](https://github.com/suzansadek/capstone/blob/main/week2/choice9.jpg)
 
 **Tw: Food and eating disorders.** This may seem like a simple choice, but it wasn’t. As a person who struggled with food growing up, this is a much more difficult decision that it seems. Like number 7, having the choice made for me resulted in less guilt and anxiety than I would normally have for eating cookies at 10pm. I wonder how different people would answer this question, and whether they would apply their own philosophies and life choices to mine, or the opposite.
 
-1. Staying up vs. Waking up early
+10. Staying up vs. Waking up early
+
+![](https://github.com/suzansadek/capstone/blob/main/week2/choice10.jpg)
 
 As a way to end the experiment, I wanted a question reminding the chooser that they or.. I ... will face the consequences of their choices. In this case, it was being behind on work. If the chooser had known this consequence earlier, would he had chosen differently for question 7? 
 
