@@ -7,7 +7,7 @@ The song begins with an intro for all. It starts with an upbeat, quirky beat, se
 
 PLEASE NOTE**** I am sick this week, and you can hear my blocked nose while I am speaking. So please do not judge my singing abilities, because I am sensitive at this moment in time :) I tried my best with what my voice could do for me. 
 
-**INTRO: **
+[Intro](https://soundcloud.com/suzan-sadek/capstone-prototype-intro-1/s-Uu1mlRLyII2)
 
 Lyrics:
 
@@ -35,7 +35,7 @@ _But dont seem to get the tingly sensation_
 
 _So now the choice is to go on the date or to not._
 
-**if you Choose to date:**
+[CHOOSE TO DATE](https://soundcloud.com/suzan-sadek/capstone-prototype-date1yes/s-JKqdGGLWMzG)
 
 Lyrics:
 
@@ -57,7 +57,7 @@ _His love and devotion; its me I hate._
 
 _Both our hearts are in my hands to break. Oh they'll break._
 
-**If you choose not to date:**
+[CHOOSE NOT TO DATE](https://soundcloud.com/suzan-sadek/capstone-prototype-choice1yes/s-yHQcC3bwkU4)
 
 Lyrics: 
 _I've been alone, _
@@ -76,7 +76,7 @@ _Do I have what it takes to love and let go?_
 
 _Or is it not for me, I really want to know._ 
 
-**New Era **
+[NEW ERA AND CHOICE](https://soundcloud.com/suzan-sadek/capstone-prototype-choice2/s-88gWQtH1bK5)
 
 Lyrics: 
 _Well, ive been alone for a while,
@@ -124,7 +124,7 @@ _should I?_
 
 _I dont know what to say_
 
-**Choice 2 No**
+[CHOOSE NO TO DATE](https://soundcloud.com/suzan-sadek/capstone-prototype-choice2no/s-VaTYTr8YSQ4)
 
 lyrics: 
 
@@ -152,7 +152,7 @@ _Does my jealousy show, _
 
 _why does this hurt too much I want to know?_
 
-**Choice 2 Yes**
+[CHOOSE YES TO DATE](https://soundcloud.com/suzan-sadek/capstone-prototype-choice2yes/s-pLFIjvGwTIA)
 
 Lyrics: 
 _We went to see a movie then we took a walk outside, _
