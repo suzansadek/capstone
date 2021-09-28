@@ -1,4 +1,4 @@
-<h1> Identity Complexity </h1?
+<h1> Identity Complexity </h1>
 
 _The main idea is to have a song. A song that sounds normal. It has melodies. It has beats and fun elements. But its actually composed of different feelings and energies. The idea is to have an immersive room, where each corner expresses a different emotion of the complexity of a mind. The whole song comes across as bubbly, fun, happy, quirky. But each corner and element, as you approach it, you will hear actual sadness, fear, insecurity, and other elements, that make you understand better the facade of the brain. 
 _
