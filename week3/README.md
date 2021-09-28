@@ -7,7 +7,7 @@ The song begins with an intro for all. It starts with an upbeat, quirky beat, se
 
 PLEASE NOTE**** I am sick this week, and you can hear my blocked nose while I am speaking. So please do not judge my singing abilities, because I am sensitive at this moment in time :) I tried my best with what my voice could do for me. 
 
-[Intro](https://soundcloud.com/suzan-sadek/capstone-prototype-intro-1/s-Uu1mlRLyII2)
+[Intro](https://soundcloud.com/suzan-sadek/intro/s-S4ODg42Hspq)
 
 Lyrics:
 
@@ -35,7 +35,7 @@ _But dont seem to get the tingly sensation_
 
 _So now the choice is to go on the date or to not._
 
-[CHOOSE TO DATE](https://soundcloud.com/suzan-sadek/capstone-prototype-date1yes/s-JKqdGGLWMzG)
+[CHOOSE TO DATE --This one keeps getting removed off soundcloud--](https://github.com/suzansadek/capstone/blob/main/week3/Choice1Date.mp3)
 
 Lyrics:
 
@@ -57,7 +57,7 @@ _His love and devotion; its me I hate._
 
 _Both our hearts are in my hands to break. Oh they'll break._
 
-[CHOOSE NOT TO DATE](https://soundcloud.com/suzan-sadek/capstone-prototype-choice1yes/s-yHQcC3bwkU4)
+[CHOOSE NOT TO DATE](https://soundcloud.com/suzan-sadek/choice1nodate/s-KJgemLKnCWa)
 
 Lyrics: 
 _I've been alone, _
@@ -76,7 +76,7 @@ _Do I have what it takes to love and let go?_
 
 _Or is it not for me, I really want to know._ 
 
-[NEW ERA AND CHOICE](https://soundcloud.com/suzan-sadek/capstone-prototype-choice2/s-88gWQtH1bK5)
+[NEW ERA AND CHOICE](https://soundcloud.com/suzan-sadek/choice2q/s-gOgIp7dIUh1)
 
 Lyrics: 
 _Well, ive been alone for a while,
@@ -124,7 +124,7 @@ _should I?_
 
 _I dont know what to say_
 
-[CHOOSE NO TO DATE](https://soundcloud.com/suzan-sadek/capstone-prototype-choice2no/s-VaTYTr8YSQ4)
+[CHOOSE NO TO DATE](https://soundcloud.com/suzan-sadek/choice2no-1/s-HNivCQO1kjH)
 
 lyrics: 
 
@@ -152,7 +152,7 @@ _Does my jealousy show, _
 
 _why does this hurt too much I want to know?_
 
-[CHOOSE YES TO DATE](https://soundcloud.com/suzan-sadek/capstone-prototype-choice2yes/s-pLFIjvGwTIA)
+[CHOOSE YES TO DATE](https://soundcloud.com/suzan-sadek/choice2yes/s-6Vae2o5W9Jl)
 
 Lyrics: 
 _We went to see a movie then we took a walk outside, _
